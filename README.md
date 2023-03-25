@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Chelsey的一週訓練菜單</title>
+
 </head>
 
 <body>
