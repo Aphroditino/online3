@@ -1,5 +1,4 @@
 # online3
-![Uploading image.png…]()
 <!DOCTYPE html>
 <html>
 
