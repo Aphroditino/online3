@@ -1,10 +1,6 @@
 <img src="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6854615/492705_919805.jpeg" alt="online">
 <html>
-![image](https://user-images.githubusercontent.com/128933968/227743796-c98606ea-4533-431a-aed3-1f1ba508841c.png)
 
-<head>
-  <meta charset="UTF-8">
-  <title>Chelsey的一週訓練菜單</title>
 </head>
 
 <body>
