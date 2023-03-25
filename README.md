@@ -1,12 +1,9 @@
-# online3
 <!DOCTYPE html>
 <html>
-
 <head>
   <meta charset="UTF-8">
-
+  <title>Chelsey的一週訓練菜單</title>
 </head>
-
 <body>
   <h1>Chelsey的一週訓練菜單</h1>
   <h2>臀腿1</h2>
@@ -63,4 +60,5 @@
         <li>(12下+20下) x3組</li>
       </ul>
     </li>
-    <li>cable
+    <li>cable側平舉8-10下x3組</li>
+    <li>reverse pec deck 12下x3組</li
