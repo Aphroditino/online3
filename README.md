@@ -1,5 +1,4 @@
-<img src="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6854615/777021_241268.jpeg" alt="online">
-<html>
+
 <img src="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6854615/492705_919805.jpeg" alt="online">
 <html>
 
